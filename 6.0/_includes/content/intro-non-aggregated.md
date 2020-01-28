@@ -1,1 +1,0 @@
-We include the following result to provide contrast to an example where ThoughtSpot does not reaggregate the result set. Reaggregation requires the aggregate function, <code><strong>sum</strong></code>, to precede the <code><strong>group_aggregate</strong></code> function. 
