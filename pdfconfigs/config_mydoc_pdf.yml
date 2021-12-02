@@ -14,7 +14,7 @@
 # ThoughtSpot_GCP_Installation_Guide_x.x
 # ThoughtSpot_in_Practice_x.x
 # ThoughtSpot_SMC_Installation_Guide_x.x
-#
+# ThoughtSpot_Cloud_Snowflake_Connection_Guide_x.x
 
 destination: _site/
 url: "https://cloud-docs.thoughtspot.com"
@@ -22,8 +22,8 @@ baseurl: "/1.0"
 port:
 output: pdf
 product: mydoc
-print_title: THETITLE
-print_subtitle: Release THEVERSION
+print_title: ThoughtSpot Data Integration Guide
+print_subtitle: Release 8.0
 output: pdf
 defaults:
   -
@@ -56,7 +56,7 @@ collections:
   practice:
     output: true
   ts-cloud:
-    output: true    
+    output: true
 
 defaults:
   - values:
