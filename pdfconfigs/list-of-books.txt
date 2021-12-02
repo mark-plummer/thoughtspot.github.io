@@ -7,6 +7,7 @@ apgBk - Application Integration
 cngBk - Data Connect
 ugBk - End User guide
 admBk - Admin guide
+snowBk - ThoughtSpot Cloud Snowflake Connection Guide
 instAWS - Deployment in AWS
 practGd - ThoughtSpot in Practice
 instSMC - Deployment on SMC
