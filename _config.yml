@@ -105,6 +105,8 @@ collections:
     output: true
   practice:
     output: true
+  ts-cloud:
+    output: true
 
 defaults:
   - values:
