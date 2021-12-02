@@ -75,7 +75,7 @@ entries:
         url: /end-user/introduction/pinboard-granular-permission.html
         output: web,ugBk
   - sectiontitle: ThoughtSpot for ...
-    output: web,snowBk
+    output: web
     sectionitems:
     - levelTwoTitle: Business Users
       output: web
@@ -171,53 +171,53 @@ entries:
         url: /admin/thoughtspot-one/query-intelligence-pinboard.html
         output: web
     - levelTwoTitle: Data Engineers
-      output: web,snowBk
+      output: web
       levelTwoItems:
       - title: For Data Engineers
         url: /admin/ts-cloud/data-engineer.html
-        output: web,snowBk
+        output: web
       - title: About connections
         url: /admin/ts-cloud/embrace.html
         output: web
       - levelThreeTitle: Connect to Snowflake
-        output: web,snowBk
+        output: web
         levelThreeItems:
         - title: Overview
           url: /admin/ts-cloud/ts-cloud-embrace-snowflake.html
-          output: web,snowBk
+          output: web
         - title: Add a connection
           url: /admin/ts-cloud/ts-cloud-embrace-snowflake-add-connection.html
-          output: web,snowBk
+          output: web
         - title: Edit connection
           url: /admin/ts-cloud/ts-cloud-embrace-snowflake-edit-connection.html
-          output: web,snowBk
+          output: web
         - title: Remap connection
           url: /admin/ts-cloud/ts-cloud-embrace-snowflake-remap-connection.html
-          output: web,snowBk
+          output: web
         - title: Delete table
           url: /admin/ts-cloud/ts-cloud-embrace-snowflake-delete-table.html
-          output: web,snowBk
+          output: web
         - title: Delete table with dependencies
           url: /admin/ts-cloud/ts-cloud-embrace-snowflake-delete-table-dependencies.html
-          output: web,snowBk
+          output: web
         - title: Delete connection
           url: /admin/ts-cloud/ts-cloud-embrace-snowflake-delete-connection.html
-          output: web,snowBk
+          output: web
         - title: Configure internal OAuth
           url: /admin/ts-cloud/ts-cloud-embrace-snowflake-oauth.html
-          output: web,snowBk
+          output: web
         - title: Configure Azure AD external OAuth
           url: /admin/ts-cloud/ts-cloud-embrace-snowflake-azure-ad-oauth.html
-          output: web,snowBk
+          output: web
         - title: Best practices
           url: /admin/ts-cloud/ts-cloud-embrace-snowflake-best-practices.html
-          output: web,snowBk
+          output: web
         - title: Connection reference
           url: /admin/ts-cloud/ts-cloud-embrace-snowflake-connection-reference.html
-          output: web,snowBk
+          output: web
         - title: Passthrough functions
           url: /admin/ts-cloud/ts-cloud-embrace-snowflake-passthrough.html
-          output: web,snowBk
+          output: web
         - title: Snowflake Partner Connect Overview
           url: /data-integrate/embrace/embrace-snowflake-partner.html
           output: web,embraceGd
@@ -1547,6 +1547,45 @@ entries:
     - title: Add a hyperlink to a Search
       url: /reference/practice/pinboard-hyperlink.html
       output: web,practGd
+  - sectiontitle: ThoughtSpot Cloud Snowflake Connection Guide
+    output: web,snowBk
+    sectionitems:
+    - title: Overview
+      url: /admin/ts-cloud/ts-cloud-embrace-snowflake.html
+      output: web,snowBk
+    - title: Add a connection
+      url: /admin/ts-cloud/ts-cloud-embrace-snowflake-add-connection.html
+      output: web,snowBk
+    - title: Edit a connection
+      url: /admin/ts-cloud/ts-cloud-embrace-snowflake-edit-connection.html
+      output: web,snowBk
+    - title: Remap a connection
+      url: /admin/ts-cloud/ts-cloud-embrace-snowflake-remap-connection.html
+      output: web,snowBk
+    - title: Delete a table
+      url: /admin/ts-cloud/ts-cloud-embrace-snowflake-delete-table.html
+      output: web,snowBk
+    - title: Delete a table with dependencies
+      url: /admin/ts-cloud/ts-cloud-embrace-snowflake-delete-table-dependencies.html
+      output: web,snowBk
+    - title: Delete a connection
+      url: /admin/ts-cloud/ts-cloud-embrace-snowflake-delete-connection.html
+      output: web,snowBk
+    - title: Configure internal OAuth
+      url: /admin/ts-cloud/ts-cloud-embrace-snowflake-oauth.html
+      output: web,snowBk
+    - title: Configure Azure AD external OAuth
+      url: /admin/ts-cloud/ts-cloud-embrace-snowflake-azure-ad-oauth.html
+      output: web,snowBk
+    - title: Best practices
+      url: /admin/ts-cloud/ts-cloud-embrace-snowflake-best-practices.html
+      output: web,snowBk
+    - title: Connection reference
+      url: /admin/ts-cloud/ts-cloud-embrace-snowflake-connection-reference.html
+      output: web,snowBk
+    - title: Passthrough functions
+      url: /admin/ts-cloud/ts-cloud-embrace-snowflake-passthrough.html
+      output: web,snowBk
 
 [//]: #     - title: Topic index
 [//]: #       url: /reference/tags_index.html
