@@ -75,7 +75,7 @@ entries:
         url: /end-user/introduction/pinboard-granular-permission.html
         output: web,ugBk
   - sectiontitle: ThoughtSpot for ...
-    output: web,ugBk
+    output: web,snowBk
     sectionitems:
     - levelTwoTitle: Business Users
       output: web
@@ -171,11 +171,11 @@ entries:
         url: /admin/thoughtspot-one/query-intelligence-pinboard.html
         output: web
     - levelTwoTitle: Data Engineers
-      output: web
+      output: web,snowBk
       levelTwoItems:
       - title: For Data Engineers
         url: /admin/ts-cloud/data-engineer.html
-        output: web
+        output: web,snowBk
       - title: About connections
         url: /admin/ts-cloud/embrace.html
         output: web
