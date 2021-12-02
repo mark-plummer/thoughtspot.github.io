@@ -1586,6 +1586,9 @@ entries:
     - title: Passthrough functions
       url: /admin/ts-cloud/ts-cloud-embrace-snowflake-passthrough.html
       output: web,snowBk
+    - title: Formula function reference
+      url: /reference/formula-reference.html
+      output: web,snowBk
 
 [//]: #     - title: Topic index
 [//]: #       url: /reference/tags_index.html
