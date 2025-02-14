@@ -623,11 +623,6 @@ force = true # COMMENT: global redirect for 9.10.0.cl old doc site url to latest
   status = 301
   force = true # COMMENT: ensure that we always redirect
 [[redirects]]
-  from = "https://cloud-docs.thoughtspot.com/admin/ts-cloud/new-answer-experience.html"
-  to = "https://docs.thoughtspot.com/cloud/latest/answer-experience-new"
-  status = 301
-  force = true # COMMENT: ensure that we always redirect
-[[redirects]]
   from = "https://cloud-docs.thoughtspot.com/admin/ts-cloud/business-user-get-started.html"
   to = "https://docs.thoughtspot.com/cloud/latest/business-user-get-started"
   status = 301
