@@ -1,9 +1,0 @@
-rnotes - Release notes
-drgBk - disaster recovery book
-awsQs - AWS QS
-appQs - Appliance QS
-digBk - Data integration
-apgBk - Application Integration
-cngBk - Data Connect
-ugBk - End User guide
-admBk - Admin guide

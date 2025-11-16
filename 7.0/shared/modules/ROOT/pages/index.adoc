@@ -1,8 +1,0 @@
-= Welcome
-:experimental:
-:last_updated: tbd
-:permalink: /:collection/:path.html
-:sidebar: mydoc_sidebar
-:toc: ~
-:article-toc: ~
-Welcome to ThoughtSpot documentation.
